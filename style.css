@@ -1,0 +1,67 @@
+h1{
+    color: crimson;
+}
+h1 span {
+    color: rgb(153, 152, 152);
+}
+.select h2{
+    background-color:crimson ;
+    color: #fff;
+    text-align: center;
+}
+.select{
+    height: 150px;
+    border:1px solid crimson;
+    margin: auto;
+    width: 98%;
+   
+}
+.select-1 h2{
+    background-color:crimson ;
+    color: #fff;
+    text-align: center;
+}
+.select-1{
+    height: 290px;
+    border:1px solid crimson;
+    margin: auto;
+    width: 98%;
+}
+#resultDiv{
+    height: 300px;
+    margin: none;
+    padding: none;
+}
+.inp{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+    border: rgb(142, 155, 168) solid 1px;
+    
+}
+.label-1{
+    padding: 10px;
+}
+.select ul li a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    list-style-type: none;
+
+}
+.select button{
+    border: 1 solid crimson;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 4px;
+    margin: 3px;
+
+}
+.btnn{
+    border: 1px solid crimson;
+    background-color: #fff;
+    color: black;
+    padding: 4px;
+    border-radius: 6px;
+
+}
